@@ -1,0 +1,4 @@
+raj	manager	5000	technical
+mohit	ceo	7000	technical
+atul	vice-ceo	6500	technical
+akash	analyst	4000	non-technical

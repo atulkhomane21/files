@@ -1,0 +1,26 @@
+total 96
+-rw-rw-r-- 1 student student  309 Oct  7 11:07 arith.sh
+-rw-rw-r-- 1 student student  297 Oct  7 11:17 main.sh
+-rw-rw-r-- 1 student student  321 Oct  7 11:56 concate.sh
+-rw-rw-r-- 1 student student  491 Oct  7 12:23 separate_string.sh
+-rw-rw-r-- 1 student student  110 Oct  7 12:41 strings_array.sh
+-rw-rw-r-- 1 student student  297 Oct  7 12:42 array_num.sh
+-rw-rw-r-- 1 student student  768 Oct  7 12:42 array_readonly.sh
+-rw-rw-r-- 1 student student  216 Oct  7 12:49 array_str_khel.sh
+-rw-rw-r-- 1 student student  381 Oct  7 12:54 if_login.sh
+-rw-rw-r-- 1 student student  511 Oct  7 12:58 if_simple.sh
+-rw-rw-r-- 1 student student  386 Oct  7 13:08 case.sh
+-rw-rw-r-- 1 student student  204 Oct  7 13:13 while.sh
+-rw-rw-r-- 1 student student 1202 Oct  7 14:38 swap.sh
+-rw-rw-r-- 1 student student  159 Oct  7 14:47 pattern.sh
+-rw-rw-r-- 1 student student   99 Oct  7 14:58 newDir.sh
+-rw-rw-r-- 1 student student  431 Oct  7 15:13 dir_arr.sh
+-rw-rw-r-- 1 student student  269 Oct  7 15:37 cleanup.sh
+-rw-rw-r-- 1 student student 1043 Oct  7 15:52 arraytouch.sh
+-rw-rw-r-- 1 student student   96 Oct  7 15:54 pushfiles.sh
+-rw-rw-r-- 1 student student  114 Oct  7 16:05 emp.txt
+-rw-rw-r-- 1 student student  149 Oct  7 16:43 employees.txt
+drwxrwxr-x 2 student student 4096 Oct  7 16:56 akk
+drwxrwxr-x 2 student student 4096 Oct  7 16:56 mohit
+-rw-rw-r-- 1 student student  186 Oct  7 17:07 readfile.sh
+-rw-rw-r-- 1 student student    0 Oct  7 17:10 files.txt
